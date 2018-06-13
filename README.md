@@ -1,0 +1,2 @@
+# PetClinic
+Sample Java application
